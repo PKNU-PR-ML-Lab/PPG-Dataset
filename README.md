@@ -55,17 +55,17 @@
 |4|A|A|A|B|
 |5|A|A|A|B|
 |6|A|B|B|A|
-|7|A|A|A|A|
-|8|A|A|A|A|
-|9|B|A|A|A|
-|10|A|A|A|A|
-|11|A|A|A|A|
-|12|A|A|A|A|
-|13|A|C|B|A|
-|14|A|C|A|A|
-|15|A|A|A|B|
-|16|A|A|A|B|
-|17|A|A|B|A|
-|18|A|A|A|A|
+|7|A|A|B|A|
+|8|A|A|B|A|
+|9|B|A|B|A|
+|10|A|A|B|A|
+|11|A|A|B|A|
+|12|A|A|B|A|
+|13|A|C|A|A|
+|14|A|C|B|A|
+|15|A|A|B|B|
+|16|A|A|B|B|
+|17|A|A|A|A|
+|18|A|A|B|A|
 
 
